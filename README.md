@@ -1,6 +1,8 @@
 
+ </details>
+<p align="center"> <img width="457"  alt="https://github.com/PlanticNurii/PlanticNurii/blob/fbc8cb18d9979f3a10a08ec855822ecaca3400ab/Untitled50_20261120141906.webp" /></p>
 
-![Alt text](https://github.com/Nerosuince/Nerosuince/blob/5adaa434725fce2ab14378b383464335f083ff26/Untitled51_20260928210145.webp)
+
     $${\Large\color{#1871c5}\textbf{ᠻꪖꪑⅈꪶꪗ ꪖꪀᦔ ᠻ𝕣ⅈꫀꪀᦔડ .}}$$
   </summary>
 </p>
