@@ -6,7 +6,7 @@
 <div align="center">
 <details>
   <summary>
-    $${\Large\color{#1871c5}\textbf{ᠻꪖꪑⅈꪶꪗ ꪖꪀᦔ ᠻ𝕣ⅈꫀꪀᦔડ .}}$$
+    $${\Large\color{#CF4F55}\textbf{About me!.}}$$
   </summary>
 </p>
 <div align= "center">
